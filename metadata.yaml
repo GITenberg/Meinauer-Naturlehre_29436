@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33910
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Wackernagel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29436#Meinauer-Naturlehre
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-07-18'
 gutenberg_type: Text
