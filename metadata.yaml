@@ -1,0 +1,30 @@
+_repo: Meinauer-Naturlehre_29436
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wackernagel, Wilhelm
+    birthdate: 1806
+    deathdate: 1869
+    gutenberg_agent_id: '33910'
+    url: http://www.gutenberg.org/2009/agents/33910
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Wackernagel
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2009-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29436'
+  lccn: 02009115
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Astronomy -- Early works to 1800'
+- !lcsh 'Science -- Early works to 1800'
+title: Meinauer Naturlehre
+url: http://www.gutenberg.org/ebooks/29436
